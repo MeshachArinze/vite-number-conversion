@@ -1,6 +1,6 @@
+
 import { FC } from "react";
 import { useForm } from "../useForm";
-
 type Gender = "male" | "female" | "non-binary";
 
 interface User {
